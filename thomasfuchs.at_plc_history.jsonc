@@ -1,0 +1,84 @@
+{
+  "alsoKnownAs": [
+    "at://thomasfuchs.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "4n4l_ALRLu8qLLG4bvOuvRm9JC-IsG63YYuX0eYzNet0WR2bm16P7RbnBH3uo007SN6gK2AVGZLxMmhPvLvznQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://thomas.cheerful.social"
+  ],
+  "prev": "bafyreieylxb2qfg36se2qeovmtioztygkehnllnyckaz7cemo2apyphuhm",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "q0RHfIkQJh43h5zqoqtSZYdOWtk8CBdtj0b3OJi4JVQR2px9ZQprmzJjRErodrnttcuj3v_kYXnoEYQs1-UBdw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://thomasfuchs.at"
+  ],
+  "prev": "bafyreia6guyansppjbyakmcu5ohzraxioiliffpc5zr76facfptb3cuzhq",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "WQqo1rCAXUQuRMrqqE6bnHWa7O5NrhhqTOhkDMd2hlpHhDq-n00JvptogAoFBP28vsVFHObaLcCgCfVAOCPm0w",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://thomasfuchs.at"
+  ],
+  "prev": "bafyreidlkxl5c67mq5x2grxhvmfluqp5vjvswjqam4mcmnrhxs4qlw75iy",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://shiitake.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "IGjUpOpg8PKTuCs9ZLprUNt3mGPK0Gxkywk8GiuaP555hXEQJQEyWAb1CHUU5YmRUu5hz6zOFXCtK7LmrIBFKA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shsx72Gj3dSZnUBWeGW7Z1eca1c81RZZRpgzxrDohBVWgK"
+  }
+}

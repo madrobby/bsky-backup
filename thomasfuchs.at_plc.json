@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:tbo4hkau3p2itkar2vsnb3gp",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shsx72Gj3dSZnUBWeGW7Z1eca1c81RZZRpgzxrDohBVWgK"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://thomasfuchs.at"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://shiitake.us-east.host.bsky.network"
+    }
+  }
+}
