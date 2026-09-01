@@ -1,1 +1,3 @@
-# bsky-backup
+# Scheduled Bluesky backup
+
+For `@thomasfuchs.at`.
